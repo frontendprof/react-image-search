@@ -11,6 +11,7 @@
 
 1.  SearchBar component
 2.  ImageList component
+3.  ImageCard component
 
 ### SearchBar Component
 
@@ -29,3 +30,7 @@
 ### ImageList component
 
 1. Rendering all queried search results
+
+### ImageList css
+
+1. Implementing grid css
