@@ -10,6 +10,7 @@
 ### Components
 
 1.  SearchBar component
+2.  ImageList component
 
 ### SearchBar Component
 
@@ -24,3 +25,7 @@
 2. Setting state after async requests
 3. Binding callbacks
 4. Refactoring and creating the instance of axios clent with some default properties
+
+### ImageList component
+
+1. Rendering all queried search results
