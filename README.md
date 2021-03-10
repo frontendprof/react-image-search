@@ -1,6 +1,7 @@
 # React Image Search App
 
 - npx create-react-app app-name
+- npx install axios, http client for api request
 
 ### Initial Setup
 
@@ -30,7 +31,17 @@
 ### ImageList component
 
 1. Rendering all queried search results
+2. We apply map array method on fetched results
+3. For each fetched result render ImageCard component
 
 ### ImageList css
 
 1. Implementing grid css
+2. Tweaking some css properties
+
+### ImageCard component
+
+1. Rendering every image inidividually
+2. Creating react ref and passing it to img element as props
+3. on componentDidMount accessing each image clientHeight via callback
+4. Dynamically allocating spans
