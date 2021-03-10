@@ -37,9 +37,11 @@
 ### ImageList css
 
 1. Implementing grid css
+2. Tweaking some css properties
 
 ### ImageCard component
 
 1. Rendering every image inidividually
 2. Creating react ref and passing it to img element as props
 3. on componentDidMount accessing each image clientHeight via callback
+4. Dynamically allocating spans
